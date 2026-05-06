@@ -37,4 +37,4 @@ sudo apt-get install gcc-avr avr-libc
 make
 ```
 
-The binary *horus-fw.hex* can be flashed with [Horus GUI](https://github.com/bqlabs/horus).
+The binary *horus-fw.hex* can be flashed with [Horus GUI](https://github.com/ai-foxx/horus).
