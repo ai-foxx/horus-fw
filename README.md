@@ -2,11 +2,6 @@
 
 This firmware is written in C. Version 0.2.
 
-Derived from Grbl v0.9 by Jesús Arroyo (Mundo Reader S.L.)
-
-Grbl's lead developer is Simen Svale Skogsrud. Sonney Jeon (Chamnit) improved some parts of grbl.
-
-
 ## Features
 
 *   Angular stepper motor movement
@@ -16,7 +11,6 @@ Grbl's lead developer is Simen Svale Skogsrud. Sonney Jeon (Chamnit) improved so
 *   Configuration interface with $ commands
 
 The default baudrate is 115200.
-
 
 ## Implemented G Codes
 
